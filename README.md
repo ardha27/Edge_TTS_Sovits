@@ -1,4 +1,4 @@
-# AI-Song-Cover-SOVITS
+# Edge-TTS-SOVITS
 Combining Edge TTS + SO-VITS Voice Converter Using Google Colab
 ## Leave A Star if This Repo Was Helpful
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/R6R7AH1FA)
