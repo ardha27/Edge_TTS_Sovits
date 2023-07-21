@@ -7,7 +7,7 @@ Combining Edge TTS + SO-VITS Voice Converter Using Google Colab
 </a>
 
 ### Tutorial (Indonesian)
--
+https://youtu.be/MEsep7cg0dI
 
 ### Google Colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/Edge_TTS_Sovits/blob/main/Edge_TTS_%2B_SO_VITS.ipynb)
